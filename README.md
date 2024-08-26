@@ -33,3 +33,6 @@ control string --> specifies format and type of data that has to be entered from
 
 ### Find the large of the two numbers
 ![which-is-larger](image-3.png)
+
+### Flow control statements in C
+![flow-control-statements](image-4.png)

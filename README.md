@@ -32,7 +32,7 @@ Here are the basic data types variants in C
 control string --> specifies format and type of data that has to be entered from the keyboard and stored in memory locations specified by the arguments after it.
 
 ### Find the large of the two numbers
-![which-is-larger](image-3.png)
+![which-is-larger](media/image-3.png)
 
 ### Flow control statements in C
-![flow-control-statements](image-4.png)
+![flow-control-statements](media/image-4.png)

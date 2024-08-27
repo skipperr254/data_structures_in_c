@@ -41,3 +41,5 @@ control string --> specifies format and type of data that has to be entered from
 Function declaration --> declaration statement that identifies the function's name, list of arguments that it accepts and the type of data that it returns.  
 Function definition --> consists of a function header that identifies the function, followed by the body of the function containing the executable code of the function. 
 
+### Pointers
+Dereferencing a pointer --> refering to the value stored in the location pointed by the pointer

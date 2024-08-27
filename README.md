@@ -36,3 +36,8 @@ control string --> specifies format and type of data that has to be entered from
 
 ### Flow control statements in C
 ![flow-control-statements](media/image-4.png)
+
+### Functions
+Function declaration --> declaration statement that identifies the function's name, list of arguments that it accepts and the type of data that it returns.  
+Function definition --> consists of a function header that identifies the function, followed by the body of the function containing the executable code of the function. 
+

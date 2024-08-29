@@ -43,3 +43,51 @@ Function definition --> consists of a function header that identifies the functi
 
 ### Pointers
 Dereferencing a pointer --> refering to the value stored in the location pointed by the pointer
+
+### Data Structures
+Common examples of data structures
+- Arrays            
+- Linked lists
+- Queues            
+- Stacks
+- Binary trees      
+- Hash tables
+
+The term *data* means a value or a set of values. Specifies the value of a variable or a constant.  
+
+Elementary data item --> data item that does not have subordinate items.
+
+Group data item --> composed of one or more subordinate data items. For example: student's name may divided into three sub-items -- first, middle and last names -- but their roll number is treated as a single item.  
+
+*Record* --> collection of data items. For example, name, address, contact, relationship, gender are all individual data items but may be grouped together into a record to represent a single contact record in a contact book.
+
+*File* --> collection of related records. For example, if you have 60 contacts in your contact book, you have 60 records for all your contacts. All these related records are stored in a file.
+
+*Primary Key* --> unique data item in a record that differentiates and identifies that record. Sort of an ID. 
+
+### Primitive and non-primitive data structures
+Primitive data structures are the fundamental data types that are natively supported by the programming language. They include:
+1. Integer
+2. Real
+3. Character
+4. Boolean
+
+Non-primitive data structures are created using the primitive data structures. Categorized into *linear* and *non-linear*.
+
+    - Linear data structures are stored in linear or sequential order. Include:
+    1. Arrays
+    2. Linked lists
+    3. Stacks
+    4. Queues
+
+    Linear relationship can be achieved through sequential memory locations or by means of links.
+
+    - Non-linear data structures are not stored in a sequential order. Adjacency is not maintained. Include *trees* and *graphs*.
+
+### Operations on data structures
+1. Traversing --> accessing each data item exactly once so that it can be processed. E.g., to print the names of all students in a class.
+2. Searching --> find the location of one or more data items that meet a certain constraint. E.g., find the names of all students who scored 100 marks in Mathematics.
+3. Inserting --> add new data items to the list of data items. E.g., add the details of a new student who joined the course.
+4. Deletion --> remove an item from the collection of data items. E.g., remove the details of a student who just left the course.
+5. Sorting --> arranging the data items in a cerain order, ascending or descending. E.g., arranging the names of students in aphabetical order.
+6. Merging --> list of two sorted data items combined to form a single list of sorted items.
